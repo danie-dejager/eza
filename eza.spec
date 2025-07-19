@@ -21,6 +21,7 @@ eza is a modern replacement for ls with more features and better defaults.
 %package zsh-completion
 Summary:        Zsh completion for eza
 Requires:       zsh
+Requires:       %{name}
 
 %description zsh-completion
 This package contains zsh shell completions for eza.
@@ -28,6 +29,7 @@ This package contains zsh shell completions for eza.
 %package fish-completion
 Summary:        Fish shell completion for eza
 Requires:       fish
+Requires:       %{name}
 
 %description fish-completion
 This package contains fish shell completions for eza.
