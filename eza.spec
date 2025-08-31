@@ -1,5 +1,5 @@
 Name:           eza
-Version:        0.23.0
+Version:        0.23.1
 Release:        1%{?dist}
 Summary:        Modern replacement for ls written in Rust
 
@@ -88,4 +88,3 @@ install -Dm644 completions/fish/eza.fish \
 
 %files fish-completion
 %{_datadir}/fish/vendor_completions.d/eza.fish
-
