@@ -1,5 +1,5 @@
 Name:           eza
-Version:        0.23.1
+Version:        0.23.2
 Release:        1%{?dist}
 Summary:        Modern replacement for ls written in Rust
 
