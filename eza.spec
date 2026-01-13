@@ -1,6 +1,6 @@
 Name:           eza
 Version:        0.23.4
-Release:        1%{?dist}
+Release:        2%{?dist}
 Summary:        Modern replacement for ls written in Rust
 
 License:        MIT AND Apache-2.0 
