@@ -1,9 +1,9 @@
 Name:           eza
 Version:        0.23.5
-Release:        1%{?dist}
+Release:        2%{?dist}
 Summary:        Modern replacement for ls written in Rust
 
-License:        MIT AND Apache-2.0
+License:        EUPL-1.2 license
 URL:            https://github.com/eza-community/eza
 Source0:        %{url}/archive/refs/tags/v%{version}.tar.gz
 
